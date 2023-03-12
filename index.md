@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About
 
 [My Linkedin Page](https://www.linkedin.com/in/parker-baughan-4a0151250/).
 
