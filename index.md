@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-
+# Projects
+<b>[About](./)</b> | <b>Projects</b> | <b>[Resume](./resume.html)</b>
 # About
 
 [My Linkedin Page](https://www.linkedin.com/in/parker-baughan-4a0151250/).
 
-There should be whitespace between paragraphs.
 
 Hello, my name is Parker Baughan, welcome to my portfolio site. 
 # Header 1
