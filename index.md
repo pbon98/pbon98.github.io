@@ -3,7 +3,7 @@ layout: default
 ---
 # Projects
 <b>[About](./)</b> | <b>Projects</b> | <b>[Resume](./resume.html)</b>
-# About
+* * *
 
 [My Linkedin Page](https://www.linkedin.com/in/parker-baughan-4a0151250/).
 
