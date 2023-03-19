@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-# Projects
-<b>[About](./)</b> | <b>Projects</b> | <b>[Resume](./resume.html)</b>
+# About
+<b>About</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
 * * *
 
-[My Linkedin Page](https://www.linkedin.com/in/parker-baughan-4a0151250/).
 
 
-Hello, my name is Parker Baughan, welcome to my portfolio site. 
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
