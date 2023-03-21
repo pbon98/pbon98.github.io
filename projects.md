@@ -12,7 +12,7 @@ These are some of my projects that I have completed while I have been working on
     <img
         alt="Survey-Form"
         src="./assets/survey-form-screenshot.png"
-        width="400"
+        width="500"
     />
 </p>
 
