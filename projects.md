@@ -11,8 +11,8 @@ These are some of my projects that I have completed while I have been working on
 <p align="center">
     <img
         alt="Survey-Form"
-        src="./assets/survey-form-screenshot.png"
-        width="500"
+        src="./assets/survey-form-2.png"
+        width="600"
     />
 </p>
 
