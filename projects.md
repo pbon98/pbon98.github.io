@@ -26,7 +26,7 @@ These are some of my projects that I have completed while I have been working on
     />
 </p>
 
-* <u>About</u>: I created this project on free-code-camp. This was a fun project because it helped me better understand CSS and designing. 
+* <u>About</u>: I created this project on free-code-camp. This was a fun project because it helped me better understand CSS and web designing. 
 
 ## Nutrition Label
 <p align="center">
