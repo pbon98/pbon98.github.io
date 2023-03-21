@@ -15,3 +15,13 @@ These are some of my projects that I have completed while I have been working on
         width="600"
     />
 </p>
+
+
+## City Skyline
+<p align="center">
+    <img
+        alt="City Skyline"
+        src="./assets/city-skyline-project.png"
+        width="600"
+    />
+</p>
