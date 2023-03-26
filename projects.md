@@ -7,18 +7,6 @@ layout: default
 
 These are some of my projects that I have completed while I have been working on free-code-camp for the last few months.
 
-## Survey-Form
-<p align="center">
-    <img
-        alt="Survey-Form"
-        src="./assets/Survey-form-2.png"
-        width="600"
-    />
-</p>
-* <u>About</u>: In this project I created a survey form to help collect data from users. 
-
-* Link: [file:///Users/parkerbaughan/Repos/Survey-Form/index.html](file:///Users/parkerbaughan/Repos/Survey-Form/index.html)
-
 
 ## City Skyline
 <p align="center">
@@ -41,3 +29,15 @@ These are some of my projects that I have completed while I have been working on
 </p>
 
 * <u>About</u>: For this project I created a Nutrition label. I used Html along with CSS to create this.
+
+## Survey-Form
+<p align="center">
+    <img
+        alt="Survey-Form"
+        src="./assets/Survey-form-2.png"
+        width="600"
+    />
+</p>
+* <u>About</u>: In this project I created a survey form to help collect data from users. 
+
+* Link: [file:///Users/parkerbaughan/Repos/Survey-Form/index.html](file:///Users/parkerbaughan/Repos/Survey-Form/index.html)
