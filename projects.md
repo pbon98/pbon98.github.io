@@ -45,3 +45,15 @@ These are some of my projects that I have completed while I have been working on
 * <u>About</u>: In this project I created a survey form to help collect data from users. 
 
 * Link: [file:///Users/parkerbaughan/Repos/Survey-Form/index.html](file:///Users/parkerbaughan/Repos/Survey-Form/index.html)
+
+## Building-a-Penguin
+<p align="center">
+    <img
+        alt="Building-a-Penguin"
+        src="./assets/Building-a-Penguin.png"
+        width="600"
+    />
+</p>
+* <u>About</u>: In this project I created a penguin using CSS. This really helped me better understand how to use CSS to create something cool. I also learned how to make the penguin wave its arm. Click the link to see more.
+
+* Link: [file:///Users/parkerbaughan/Repos/Building-a-penguin/index.html](file:///Users/parkerbaughan/Repos/Building-a-penguin/index.html)
