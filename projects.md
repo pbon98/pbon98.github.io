@@ -15,7 +15,10 @@ These are some of my projects that I have completed while I have been working on
         width="600"
     />
 </p>
-* Link to page: [file:///Users/parkerbaughan/Repos/Survey-Form/index.html] 
+* <u>About</u>: In this project I created a survey form to help collect data from users. 
+
+* Link: [file:///Users/parkerbaughan/Repos/Survey-Form/index.html](file:///Users/parkerbaughan/Repos/Survey-Form/index.html)
+
 
 ## City Skyline
 <p align="center">
