@@ -1,119 +1,71 @@
+---
 layout: default
 ---
-# About
-<b>About</b> | <b>[Projects](./projects.html)</b> | <b>[Resume](./resume.html)</b>
+# Projects
+ |<b>Projects</b> | 
 * * *
 
+These are some of my projects that I have completed while I have been working on free-code-camp for the last few months.
 
 
-# Header 1
+## City Skyline
+<p align="center">
+    <img
+        alt="City Skyline"
+        src="./assets/city-skyline-project.png"
+        width="600"
+    />
+</p>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* <u>About</u>: I created this project on free-code-camp. This was a fun project because it helped me better understand CSS and web designing. 
 
-## Header 2
+* Link: [file:///Users/parkerbaughan/Repos/City-skyline/index.html](file:///Users/parkerbaughan/Repos/City-skyline/index.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Nutrition Label
+<p align="center">
+    <img
+        alt="Nutrition Label"
+        src="./assets/Nutrition-label.png"
+        width="600"
+    />
+</p>
 
-### Header 3
+* <u>About</u>: For this project I created a Nutrition label. I used Html along with CSS to create this.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Link: [file:///Users/parkerbaughan/Repos/Nutrition-Label/index.html](file:///Users/parkerbaughan/Repos/Nutrition-Label/index.html)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Survey-Form
+<p align="center">
+    <img
+        alt="Survey-Form"
+        src="./assets/Survey-form-2.png"
+        width="600"
+    />
+</p>
+* <u>About</u>: In this project I created a survey form to help collect data from users. 
 
-#### Header 4
+* Link: [file:///Users/parkerbaughan/Repos/Survey-Form/index.html](file:///Users/parkerbaughan/Repos/Survey-Form/index.html)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Building-a-Penguin
+<p align="center">
+    <img
+        alt="Building-a-Penguin"
+        src="./assets/Building-a-Penguin.png"
+        width="600"
+    />
+</p>
+* <u>About</u>: In this project I created a penguin using CSS. This really helped me better understand how to use CSS to create something cool. I also learned how to make the penguin wave its arm. Click the link to see more.
 
-##### Header 5
+* Link: [file:///Users/parkerbaughan/Repos/Building-a-penguin/index.html](file:///Users/parkerbaughan/Repos/Building-a-penguin/index.html)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Building-a-piano
+<p align="center">
+    <img
+        alt="Building-a-Piano"
+        src="./assets/Building-a-Piano.png"
+        width="600"
+    />
+</p>
+* <u>About</u>: In this project I made a piano using CSS. I also learned about media queries and pseudo selectors in this project.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Link: [file:///Users/parkerbaughan/Repos/Building-a-piano/index.html](file:///Users/parkerbaughan/Repos/Building-a-piano/index.html)
