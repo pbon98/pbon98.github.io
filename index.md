@@ -20,7 +20,7 @@ These are some of my projects that I have completed while I have been working on
 
 * <u>About</u>: I created this project on free-code-camp. This was a fun project because it helped me better understand CSS and web designing. 
 
-* Link: [file:///Users/parkerbaughan/Repos/City-skyline/index.html](file:///Users/parkerbaughan/Repos/City-skyline/index.html)
+* Link: [https://github.com/pbon98/City-skyline](https://github.com/pbon98/City-skyline)
 
 ## Nutrition Label
 <p align="center">
@@ -33,7 +33,7 @@ These are some of my projects that I have completed while I have been working on
 
 * <u>About</u>: For this project I created a Nutrition label. I used Html along with CSS to create this.
 
-* Link: [file:///Users/parkerbaughan/Repos/Nutrition-Label/index.html](file:///Users/parkerbaughan/Repos/Nutrition-Label/index.html)
+* Link: [https://github.com/pbon98/Nutrition-Label](https://github.com/pbon98/Nutrition-Label)
 
 ## Survey-Form
 <p align="center">
@@ -45,7 +45,7 @@ These are some of my projects that I have completed while I have been working on
 </p>
 * <u>About</u>: In this project I created a survey form to help collect data from users. 
 
-* Link: [file:///Users/parkerbaughan/Repos/Survey-Form/index.html](file:///Users/parkerbaughan/Repos/Survey-Form/index.html)
+* Link: [https://github.com/pbon98/Survey-Form](https://github.com/pbon98/Survey-Form)
 
 ## Building-a-Penguin
 <p align="center">
@@ -57,7 +57,7 @@ These are some of my projects that I have completed while I have been working on
 </p>
 * <u>About</u>: In this project I created a penguin using CSS. This really helped me better understand how to use CSS to create something cool. I also learned how to make the penguin wave its arm. Click the link to see more.
 
-* Link: [file:///Users/parkerbaughan/Repos/Building-a-penguin/index.html](file:///Users/parkerbaughan/Repos/Building-a-penguin/index.html)
+* Link: [https://github.com/pbon98/Building-a-penguin](https://github.com/pbon98/Building-a-penguin)
 
 # Building-a-piano
 <p align="center">
@@ -69,4 +69,4 @@ These are some of my projects that I have completed while I have been working on
 </p>
 * <u>About</u>: In this project I made a piano using CSS. I also learned about media queries and pseudo selectors in this project.
 
-* Link: [file:///Users/parkerbaughan/Repos/Building-a-piano/index.html](file:///Users/parkerbaughan/Repos/Building-a-piano/index.html)
+* Link: [https://github.com/pbon98/Building-a-piano](https://github.com/pbon98/Building-a-piano)
